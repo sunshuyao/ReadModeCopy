@@ -16,14 +16,8 @@
 			</array>
 			<key>metadata</key>
 			<dict>
-				<key>bundle-identifier</key>
-				<string>com.baidu.BaiduMobileDev</string>
-				<key>bundle-version</key>
-				<string>11.9</string>
 				<key>kind</key>
 				<string>software</string>
-				<key>title</key>
-				<string>cmcapp</string>
 			</dict>
 		</dict>
 	</array>
